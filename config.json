@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdrocess",
+        "uuid": 7896186,
+        "checksum": "ubmbk"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
